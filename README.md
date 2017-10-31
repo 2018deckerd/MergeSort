@@ -1,2 +1,2 @@
-# MergeSort
-Program for merge sorting an array
+# merge-sort-starter
+This repo contains the starter code for the merge sort lab.
